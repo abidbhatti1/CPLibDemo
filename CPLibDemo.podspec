@@ -2,7 +2,7 @@ Pod::Spec.new do |spec|
 
 
   spec.name         = "CPLibDemo"
-  spec.version      = "1.0.0"
+  spec.version      = "2.0.0"
   spec.summary      = "A short description of CPLibDemo."
   spec.description  = "A Sample description"
 
