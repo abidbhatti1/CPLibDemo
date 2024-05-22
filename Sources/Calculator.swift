@@ -7,4 +7,8 @@ public final class Calculator {
         return x + y
     }
 
+    public static func subtract(x: Int, y: Int) -> Int {
+        return x - y
+    }
+
 }
